@@ -43,6 +43,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-twitter-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
