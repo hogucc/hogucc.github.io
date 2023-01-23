@@ -6,7 +6,7 @@ permalink: /about/
 
 Hotil = Hogucc's Today I Learned.
 
-日々学んだことを書いていきます
+ちょっとしたことでも学びと思ったことを雑にアウトプットしていく場所
 
 本サイトのソースコードは[こちら](https://github.com/hogucc/hogucc.github.io)
 
